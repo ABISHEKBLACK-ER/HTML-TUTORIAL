@@ -70,9 +70,9 @@ a.action{
   
 }
 
-a.action :hover{
+a.action:hover{
 
-  background-color:;
+  background-color: #ff6600;
   
 }
 
